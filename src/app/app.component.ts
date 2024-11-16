@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { FirstCompComponent } from './first-comp/first-comp.component';
+import { SecondCompComponent } from './second-comp/second-comp.component';
 
 @Component({
   selector: 'app-root',
